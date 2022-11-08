@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/82339446/200642884-ac5646ab-1b0a-4af0-a232-d81ff407c2c8.png" width="550px" />
+</div>
+
 # 💫 About Me:
 Hi! 👋	<br>🖥️ Im getting into the data science world!<br>Currently, I've been studying some Phyton and R codes. Feel free to have a look 😀
 
