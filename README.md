@@ -15,6 +15,4 @@ Hi! 👋	<br>🖥️ Im getting into the data science world!<br>Currently, I've 
 ---
 [![](https://visitcount.itsvg.in/api?id=Fefaw1&label=Profile%20Views&color=10&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
  ![Snake animation](https://github.com/Fefaw1/Fefaw1/blob/output/github-contribution-grid-snake.svg)
