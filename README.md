@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-Hi! 👋	<br>🖥️ Im getting into the data science world!<br>Currently, I've been studying some Phyton and R codes. Feel free to have a look 😀
+Hi! 👋	<br>🖥️ Support Analyst, but also studying programming<br>Feel free to have a look 😀
 
 
 ## 🌐 Socials:
